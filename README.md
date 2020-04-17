@@ -27,8 +27,8 @@ The videos and the groundtruth were converted into numpy data, Xtrain and Ytrain
 ## 2. Training the Model
 
 Training Results:
-Train accuracy : 79.20%, Train loss : 0.3563
-Validation accuracy : 78.33%, Validation loss : 0.3552
+
+Train accuracy : 79.20%, Train loss : 0.3563   Validation accuracy : 78.33%, Validation loss : 0.3552
 
 ![](Screenshots/2.png)
 
