@@ -1,1 +1,5 @@
 https://www.dropbox.com/s/2b97exbfdcerj7g/forgery_model.hdf5?dl=0
+----------------------------------------------------------------------------
+Use:
+!wget https://www.dropbox.com/s/2b97exbfdcerj7g/forgery_model.hdf5?dl=0
+in your notebook to download the model and the saved weights.
