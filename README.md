@@ -22,7 +22,7 @@ The following steps were used to make the model predict the copy-move video forg
 
 The videos and the groundtruth were converted into numpy data, Xtrain and Ytrain respectively.
 
-![](Screenshots/1.png)
+
 
 ## 2. Training the Model
 
@@ -30,21 +30,21 @@ Training Results:
 Train accuracy : 79.20%, Train loss : 0.3563
 Validation accuracy : 78.33%, Validation loss : 0.3552
 
-![](Screenshots/2.png)
+
 
 ## 3. Model Testing
 
 The precision and recall values:
 
-![](Screenshots/3.png)
+
 
 ROC Curve:
 
-![](Screenshots/4.png)
+
 
 
 ## Predictions
 
 Now, the model is able to predict the copy-move video forgeries:
 
-![](Screenshots/5.png)
+
